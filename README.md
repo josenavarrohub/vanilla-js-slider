@@ -1,6 +1,6 @@
 # 📽️ Slider in Vanilla JavaScript
 
-[![Slider in Vanilla Javascript](https://github.com/josenavarrohub/vanilla-js-slider/blob/main/demo.png?raw=true)](https://josenavarrohub.github.io/vanilla-js-slider/)
+[![Slider in Vanilla Javascript](https://github.com/josenavarrohub/vanilla-js-slider/blob/main/demo.gif?raw=true)](https://josenavarrohub.github.io/vanilla-js-slider/)
 
 ## Instructions
 To switch between slides, the following elements can be used:
